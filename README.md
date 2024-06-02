@@ -8,4 +8,11 @@
 
 - 💬 Ask me about **SQL, Python and PowerBI**
 
-- ⚡ Fun fact: I am also a licensed motorized paraglider (PPG) pilot 
+- ⚡ Fun fact: I am also a licensed motorized paraglider (PPG) pilot
+
+## Contact
+
+<a href="https://www.linkedin.com/in/vgr-contreras/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-vgrcontreras-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
